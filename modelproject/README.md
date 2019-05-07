@@ -4,4 +4,5 @@ Our project is titled "The Richard Meltzer Model" and is about the Richard Meltz
 
 The results of the project can be seen from running modelproject.ipynb.
 
+
 Dependencies: Apart from a standard Anaconda Python 3 installation the project requires no further installations.
